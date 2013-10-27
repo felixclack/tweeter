@@ -8,6 +8,7 @@ group :development do
 end
 
 gem 'devise'
+gem 'bootstrap-sass', '~> 3.0.0.0.rc'
 
 group :production do
   gem 'pg'
