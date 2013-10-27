@@ -9,7 +9,7 @@ end
 
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.0.0.0.rc'
-
+gem 'gravtastic'
 group :production do
   gem 'pg'
   gem 'rails_12factor'
